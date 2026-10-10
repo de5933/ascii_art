@@ -1,0 +1,498 @@
+{
+  "format": "glyph-brightness",
+  "version": 1,
+  "font": {
+    "family": "Cascadia Mono",
+    "style": "Regular",
+    "file": "C:\\Users\\Daragh\\AppData\\Local\\Microsoft\\Windows\\Fonts\\CascadiaMono.ttf",
+    "weight": null,
+    "size": 64
+  },
+  "cell": {
+    "width": 38,
+    "height": 75,
+    "aspect": 1.973684
+  },
+  "measurement": {
+    "method": "rendered-ink-coverage",
+    "normalized_to": "@",
+    "generated": "2026-09-17T23:36:59+00:00"
+  },
+  "glyphs": [
+    {
+      "char": " ",
+      "coverage": 0.0,
+      "weight": 0.0
+    },
+    {
+      "char": ".",
+      "coverage": 0.023667,
+      "weight": 0.077682
+    },
+    {
+      "char": "`",
+      "coverage": 0.043216,
+      "weight": 0.141846
+    },
+    {
+      "char": "'",
+      "coverage": 0.046519,
+      "weight": 0.15269
+    },
+    {
+      "char": ":",
+      "coverage": 0.047334,
+      "weight": 0.155364
+    },
+    {
+      "char": ",",
+      "coverage": 0.050017,
+      "weight": 0.164171
+    },
+    {
+      "char": "-",
+      "coverage": 0.063089,
+      "weight": 0.207076
+    },
+    {
+      "char": "_",
+      "coverage": 0.063089,
+      "weight": 0.207076
+    },
+    {
+      "char": ";",
+      "coverage": 0.073684,
+      "weight": 0.241852
+    },
+    {
+      "char": "^",
+      "coverage": 0.08131,
+      "weight": 0.266882
+    },
+    {
+      "char": "!",
+      "coverage": 0.085695,
+      "weight": 0.281276
+    },
+    {
+      "char": "~",
+      "coverage": 0.090365,
+      "weight": 0.296605
+    },
+    {
+      "char": "\"",
+      "coverage": 0.093039,
+      "weight": 0.30538
+    },
+    {
+      "char": "+",
+      "coverage": 0.124709,
+      "weight": 0.409329
+    },
+    {
+      "char": "<",
+      "coverage": 0.124817,
+      "weight": 0.409686
+    },
+    {
+      "char": "=",
+      "coverage": 0.126178,
+      "weight": 0.414153
+    },
+    {
+      "char": ">",
+      "coverage": 0.128707,
+      "weight": 0.422454
+    },
+    {
+      "char": "\\",
+      "coverage": 0.130879,
+      "weight": 0.429581
+    },
+    {
+      "char": "/",
+      "coverage": 0.130881,
+      "weight": 0.42959
+    },
+    {
+      "char": "*",
+      "coverage": 0.136594,
+      "weight": 0.448342
+    },
+    {
+      "char": "?",
+      "coverage": 0.139524,
+      "weight": 0.457957
+    },
+    {
+      "char": "|",
+      "coverage": 0.145445,
+      "weight": 0.477391
+    },
+    {
+      "char": "L",
+      "coverage": 0.148538,
+      "weight": 0.487544
+    },
+    {
+      "char": "v",
+      "coverage": 0.148764,
+      "weight": 0.488284
+    },
+    {
+      "char": "l",
+      "coverage": 0.15405,
+      "weight": 0.505636
+    },
+    {
+      "char": "c",
+      "coverage": 0.154214,
+      "weight": 0.506174
+    },
+    {
+      "char": "T",
+      "coverage": 0.155118,
+      "weight": 0.509141
+    },
+    {
+      "char": "x",
+      "coverage": 0.155487,
+      "weight": 0.510352
+    },
+    {
+      "char": "Y",
+      "coverage": 0.158155,
+      "weight": 0.519109
+    },
+    {
+      "char": "(",
+      "coverage": 0.164583,
+      "weight": 0.540209
+    },
+    {
+      "char": ")",
+      "coverage": 0.164731,
+      "weight": 0.540693
+    },
+    {
+      "char": "i",
+      "coverage": 0.168143,
+      "weight": 0.551893
+    },
+    {
+      "char": "r",
+      "coverage": 0.168201,
+      "weight": 0.552083
+    },
+    {
+      "char": "1",
+      "coverage": 0.168292,
+      "weight": 0.552381
+    },
+    {
+      "char": "z",
+      "coverage": 0.172176,
+      "weight": 0.565131
+    },
+    {
+      "char": "}",
+      "coverage": 0.174239,
+      "weight": 0.571901
+    },
+    {
+      "char": "{",
+      "coverage": 0.174243,
+      "weight": 0.571914
+    },
+    {
+      "char": "t",
+      "coverage": 0.175706,
+      "weight": 0.576715
+    },
+    {
+      "char": "n",
+      "coverage": 0.176333,
+      "weight": 0.578775
+    },
+    {
+      "char": "J",
+      "coverage": 0.178159,
+      "weight": 0.584768
+    },
+    {
+      "char": "s",
+      "coverage": 0.179152,
+      "weight": 0.588029
+    },
+    {
+      "char": "j",
+      "coverage": 0.181544,
+      "weight": 0.595878
+    },
+    {
+      "char": "f",
+      "coverage": 0.182171,
+      "weight": 0.597938
+    },
+    {
+      "char": "C",
+      "coverage": 0.184089,
+      "weight": 0.604234
+    },
+    {
+      "char": "u",
+      "coverage": 0.184755,
+      "weight": 0.60642
+    },
+    {
+      "char": "7",
+      "coverage": 0.185335,
+      "weight": 0.608321
+    },
+    {
+      "char": "F",
+      "coverage": 0.185384,
+      "weight": 0.608484
+    },
+    {
+      "char": "I",
+      "coverage": 0.186749,
+      "weight": 0.612964
+    },
+    {
+      "char": "[",
+      "coverage": 0.186829,
+      "weight": 0.613226
+    },
+    {
+      "char": "]",
+      "coverage": 0.186907,
+      "weight": 0.613483
+    },
+    {
+      "char": "o",
+      "coverage": 0.18923,
+      "weight": 0.621107
+    },
+    {
+      "char": "e",
+      "coverage": 0.192623,
+      "weight": 0.632244
+    },
+    {
+      "char": "3",
+      "coverage": 0.193702,
+      "weight": 0.635785
+    },
+    {
+      "char": "V",
+      "coverage": 0.194032,
+      "weight": 0.636869
+    },
+    {
+      "char": "X",
+      "coverage": 0.194742,
+      "weight": 0.6392
+    },
+    {
+      "char": "a",
+      "coverage": 0.198019,
+      "weight": 0.649953
+    },
+    {
+      "char": "2",
+      "coverage": 0.199035,
+      "weight": 0.653291
+    },
+    {
+      "char": "y",
+      "coverage": 0.199046,
+      "weight": 0.653327
+    },
+    {
+      "char": "Z",
+      "coverage": 0.202412,
+      "weight": 0.664374
+    },
+    {
+      "char": "S",
+      "coverage": 0.204999,
+      "weight": 0.672865
+    },
+    {
+      "char": "h",
+      "coverage": 0.208738,
+      "weight": 0.685136
+    },
+    {
+      "char": "4",
+      "coverage": 0.212947,
+      "weight": 0.698951
+    },
+    {
+      "char": "k",
+      "coverage": 0.215684,
+      "weight": 0.707934
+    },
+    {
+      "char": "A",
+      "coverage": 0.217142,
+      "weight": 0.712722
+    },
+    {
+      "char": "w",
+      "coverage": 0.220228,
+      "weight": 0.722852
+    },
+    {
+      "char": "U",
+      "coverage": 0.220347,
+      "weight": 0.72324
+    },
+    {
+      "char": "P",
+      "coverage": 0.221591,
+      "weight": 0.727323
+    },
+    {
+      "char": "5",
+      "coverage": 0.22318,
+      "weight": 0.73254
+    },
+    {
+      "char": "K",
+      "coverage": 0.228411,
+      "weight": 0.749711
+    },
+    {
+      "char": "b",
+      "coverage": 0.231737,
+      "weight": 0.760627
+    },
+    {
+      "char": "q",
+      "coverage": 0.232385,
+      "weight": 0.762754
+    },
+    {
+      "char": "E",
+      "coverage": 0.233013,
+      "weight": 0.764814
+    },
+    {
+      "char": "H",
+      "coverage": 0.23397,
+      "weight": 0.767957
+    },
+    {
+      "char": "m",
+      "coverage": 0.234517,
+      "weight": 0.76975
+    },
+    {
+      "char": "9",
+      "coverage": 0.234781,
+      "weight": 0.770617
+    },
+    {
+      "char": "6",
+      "coverage": 0.234806,
+      "weight": 0.770699
+    },
+    {
+      "char": "d",
+      "coverage": 0.235675,
+      "weight": 0.773553
+    },
+    {
+      "char": "p",
+      "coverage": 0.235983,
+      "weight": 0.774565
+    },
+    {
+      "char": "G",
+      "coverage": 0.2381,
+      "weight": 0.781511
+    },
+    {
+      "char": "%",
+      "coverage": 0.240871,
+      "weight": 0.790607
+    },
+    {
+      "char": "O",
+      "coverage": 0.243172,
+      "weight": 0.798158
+    },
+    {
+      "char": "#",
+      "coverage": 0.244559,
+      "weight": 0.802711
+    },
+    {
+      "char": "D",
+      "coverage": 0.251158,
+      "weight": 0.824371
+    },
+    {
+      "char": "8",
+      "coverage": 0.256845,
+      "weight": 0.843038
+    },
+    {
+      "char": "R",
+      "coverage": 0.259963,
+      "weight": 0.853272
+    },
+    {
+      "char": "0",
+      "coverage": 0.259999,
+      "weight": 0.853389
+    },
+    {
+      "char": "&",
+      "coverage": 0.263308,
+      "weight": 0.864251
+    },
+    {
+      "char": "g",
+      "coverage": 0.267571,
+      "weight": 0.878243
+    },
+    {
+      "char": "N",
+      "coverage": 0.271908,
+      "weight": 0.892478
+    },
+    {
+      "char": "$",
+      "coverage": 0.272468,
+      "weight": 0.894317
+    },
+    {
+      "char": "M",
+      "coverage": 0.272603,
+      "weight": 0.894759
+    },
+    {
+      "char": "B",
+      "coverage": 0.276399,
+      "weight": 0.90722
+    },
+    {
+      "char": "W",
+      "coverage": 0.284571,
+      "weight": 0.934043
+    },
+    {
+      "char": "Q",
+      "coverage": 0.286338,
+      "weight": 0.939842
+    },
+    {
+      "char": "@",
+      "coverage": 0.304666,
+      "weight": 1.0
+    }
+  ]
+}
